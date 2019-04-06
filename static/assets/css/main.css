@@ -1754,7 +1754,6 @@ input, select, textarea {
     }
 
         .image img {
-            display: block;
             width: 100%;
             box-shadow: 2px 2px 4px #47454a;
         }
@@ -1776,8 +1775,7 @@ input, select, textarea {
         }
 
         .image.featured {
-            display: block;
-            width: 100%;
+            width: 50%;
             margin: 0 0 2em 0;
         }
 
